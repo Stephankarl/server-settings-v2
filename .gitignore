@@ -1,0 +1,16 @@
+# All Secret Keys
+
+/secrets
+*/.env
+.env
+
+# All Logs
+
+/logs
+
+# Traefik
+/appdata/traefik3/acme
+
+# Portainer
+
+/appdata/portainer/data
